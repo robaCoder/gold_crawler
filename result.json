@@ -1,0 +1,81 @@
+{
+  "domestic": {
+    "sjc_buy_price": "184.200",
+    "sjc_buy_change": "+142",
+    "sjc_sell_price": "187.200",
+    "sjc_sell_change": "-22",
+    "ring_buy_price": "183.900",
+    "ring_buy_change": "+142",
+    "ring_sell_price": "186.900",
+    "ring_sell_change": "-22",
+    "updated_at": "15:55:22 11/03/2026",
+    "crawled_at": "2026-03-11T16:00:05.434281"
+  },
+  "international": {
+    "price": "5,188.22",
+    "change": "-45.02",
+    "change_percent": "-0.86",
+    "price_vn": "164.580.387",
+    "updated_at": "15:59:34 11/03/2026",
+    "crawled_at": "2026-03-11T16:00:05.600665"
+  },
+  "silver": {
+    "usd": [
+      {
+        "unit": "1 Ounce",
+        "buy_price": "86.830",
+        "sell_price": "87.030"
+      },
+      {
+        "unit": "1 Gram",
+        "buy_price": "2.792",
+        "sell_price": "2.798"
+      },
+      {
+        "unit": "1 Lượng",
+        "buy_price": "104.690",
+        "sell_price": "104.930"
+      },
+      {
+        "unit": "1 Kg",
+        "buy_price": "2,791.600",
+        "sell_price": "2,798.030"
+      }
+    ],
+    "vnd": [
+      {
+        "unit": "1 Ounce",
+        "buy_price": "2,281,000",
+        "sell_price": "2,286,000"
+      },
+      {
+        "unit": "1 Chỉ",
+        "buy_price": "274,976",
+        "sell_price": "275,609"
+      },
+      {
+        "unit": "1 Lượng",
+        "buy_price": "2,750,000",
+        "sell_price": "2,756,000"
+      },
+      {
+        "unit": "1 Kg",
+        "buy_price": "73,327,000",
+        "sell_price": "73,496,000"
+      }
+    ],
+    "crawled_at": "2026-03-11T16:00:05.794915"
+  },
+  "bitcoin": {
+    "price": "$69,653.37",
+    "change_percent": "-1.63",
+    "price_vn": "1,832,649,764",
+    "market_cap": "$1,393,119,320,692",
+    "liquidity": "$48,941,568,972",
+    "total_supply": "20,000,746",
+    "change_1h": "0.05",
+    "change_24h": "-1.63",
+    "change_7d": "-1.29",
+    "crawled_at": "2026-03-11T16:00:05.904476"
+  }
+}

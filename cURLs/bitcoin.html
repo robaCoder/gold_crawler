@@ -1,0 +1,43 @@
+<div class="col-xs-12 col-sm-8 col-md-9">
+    <div class="coin-price">
+        <span class="text-large" id="quote_price">{BITCOIN_PRICE}</span> <span class="text-large text-red">({BITCOIN_CHANGE_PERCENT}%)</span>
+        <br>
+        <small class="text-gray">1 BTC = 1.00000000 BTC</small>
+    </div>
+    <table id="coin-table" class="table table-striped table-hover" style="font-size:14px;">
+        <tr>
+            <th>Quy đổi VNĐ</th>
+            <td>
+                <strong class="text-primary">1 BTC = ~{BITCOIN_PRICE_VN} đồng</strong>
+                <strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/coin.php?crypto=BTC" target="_blank" class="btn btn-xs btn-warning" title="Mua/bán Bitcoin" rel="nofollow noopener"> Mua/bán Bitcoin bằng VNĐ</a></strong>
+            </td>
+        </tr>
+        <tr>
+            <th>Vốn hóa thị trường</th>
+            <td>${BITCOIN_MARKET_CAP}</td>
+        </tr>
+        <tr>
+            <th>Thanh khoản (24h)</th>
+            <td>${BITCOIN_LIQUIDITY}</td>
+        </tr>
+        <tr>
+            <th>Tổng BTC hiện có</strong></th>
+            <td>{BITCOIN_TOTAL_SUPPLY} BTC</td>
+        </tr>
+        <tr>
+            <th>Dao động 1 giờ</th>
+            <td><span class=" text-red"> {BITCOIN_CHANGE_PERCENT_1H}%</span>
+            </td>
+        </tr>
+        <tr>
+            <th>Dao động 24 giờ</th>
+            <td><span class=" text-red"> {BITCOIN_CHANGE_PERCENT_24H}%</span>
+            </td>
+        </tr>
+        <tr>
+            <th>Dao động 7 ngày</th>
+            <td><span class=" text-green"> {BITCOIN_CHANGE_PERCENT_7D}%</span></td>
+        </tr>
+    </table>
+
+</div>

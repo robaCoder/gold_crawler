@@ -1,0 +1,17 @@
+curl 'https://webgia.com/tien-ao/bitcoin/' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'Accept-Language: en-US,en;q=0.9,vi;q=0.8' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -b '_ga=GA1.2.1856714164.1773202010; _gid=GA1.2.1375777568.1773202010; __gads=ID=3b89bea060857de5:T=1773202009:RT=1773216743:S=ALNI_MYQEOi1FjtRztA3l1Dml8BU1Tl17A; __gpi=UID=0000121b45f1c53d:T=1773202009:RT=1773216743:S=ALNI_MbHF-aISNHFeGPz71aBxcrDxYARUA; __eoi=ID=83de20ccc00c5c0a:T=1773202009:RT=1773216743:S=AA-AfjZVJqnJWjtyjDPhDsKtgvUg; _ga_BJ4M4XBSQD=GS2.2.s1773215541$o2$g1$t1773217948$j60$l0$h0' \
+  -H 'Pragma: no-cache' \
+  -H 'Referer: https://webgia.com/tien-ao/bitcoin/' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0' \
+  -H 'sec-ch-ua: "Not:A-Brand";v="99", "Microsoft Edge";v="145", "Chromium";v="145"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"'
